@@ -1,7 +1,7 @@
 # Cat-Vs-Dog
  A CNN model used to classify whether the given image is a cat or a dog Using Python
  
- This project invloves in
+ This project Consist of:
  
  1.static folder: inside this folder another folder is created named css for storing stylesheet which is added to HTML
 
